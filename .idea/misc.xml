@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExtractCSSSettings">
+    <option name="bem" value="true" />
+    <option name="bemComments" value="true" />
+    <option name="bemModifierPrefix" value="--" />
+    <option name="language" value="SCSS" />
+    <option name="target" value="CLIPBOARD" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+</project>
